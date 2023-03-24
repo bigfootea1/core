@@ -5058,6 +5058,12 @@
       "config_flow": false,
       "iot_class": "cloud_push"
     },
+    "smtp_handler": {
+      "name": "SMTP Event Handler",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "snapcast": {
       "name": "Snapcast",
       "integration_type": "hub",

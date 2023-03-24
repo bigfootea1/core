@@ -397,6 +397,7 @@ FLOWS = {
         "smarttub",
         "smhi",
         "sms",
+        "smtp_handler",
         "snooz",
         "solaredge",
         "solarlog",

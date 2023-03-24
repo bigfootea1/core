@@ -1,0 +1,13 @@
+{
+  "domain": "smtp_handler",
+  "name": "SMTP Event Handler",
+  "codeowners": ["@bigfootea1"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/smtp_handler",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
